@@ -16,4 +16,4 @@ A simple and interactive click counter that tracks and displays the number of ti
 
 If you have a live demo, add it here:
 
-👉 **Live Demo:**  
+👉 **Live Demo:**  https://artika739.github.io/Click_counter/
